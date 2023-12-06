@@ -52,7 +52,7 @@ const Hero = () => {
                   width={870}
                   height={489}
                   alt="hero-image"
-                  className={`w-[700px] md:w-auto max-w-[unset] absolute -top-4 md:top-[33px] right-1/2 translate-x-1/2 xl:translate-x-0 xl:right-[-160px] -z-[1] duration-700`}
+                  className={`w-[700px] md:w-[870px] max-w-[unset] absolute -top-4 md:top-[33px] right-1/2 translate-x-1/2 xl:translate-x-0 xl:right-[-160px] -z-[1] duration-700`}
                 />
 
                 {/* User Info */}
